@@ -9,4 +9,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rulers
+  rulers (>= 0.1.0)
